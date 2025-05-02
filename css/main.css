@@ -12,7 +12,7 @@
 
 /* header */
 header {
-  border-top: 5px solid #987251;
+  border-top: 5px solid #987251; background-color: aqua;
 }
 
 h1 {
